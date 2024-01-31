@@ -1,1 +1,1 @@
-# miniproject
+Online shopping system
